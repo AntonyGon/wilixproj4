@@ -1,0 +1,33 @@
+.pagination {
+  display: flex;
+  
+}
+.result {
+  border: 1px solid #b3adad;
+  border-collapse: collapse;
+  padding: 1px;
+}
+.main-table {
+  height: 600px;
+  width: 1200px;
+  border: 1px solid #b3adad;
+  border-collapse: collapse;
+  padding: 1px;
+}
+table th {
+  border: 1px solid #b3adad;
+  padding: 1px;
+  background: #f0f0f0;
+  color: #313030;
+}
+table td {
+  border: 1px solid #b3adad;
+  height: 21px;
+  text-align: center;
+  padding: 1px;
+  background: #ffffff;
+  color: #313030;
+}
+.№ {
+  background: #f0f0f0;
+}
